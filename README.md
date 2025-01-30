@@ -7,3 +7,6 @@ ReproducibilityRepoPythonCode.py presents utility estimation, including accompan
 figures, for the example supply chain discussed in Section 4.3 of the article. All utility
 estimates may take upwards of an hour to compute, depending on the computer's processing
 power.
+
+Computations require use of the logistigate package, available at https://github.com/eugenewickett/logistigate/.
+
